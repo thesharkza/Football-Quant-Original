@@ -228,7 +228,7 @@ if _pw:
             st.info(f"หมดเวลาเพราะไม่ได้ใช้งานเกิน {IDLE_SEC // 60} นาที กรุณาใส่รหัสผ่านใหม่")
         entered = st.text_input("รหัสผ่าน", type="password", label_visibility="collapsed", placeholder="รหัสผ่าน")
         if entered:
-            if hmac.compare_digest(str(entered), str(_pw)):
+            if hmac.compare_digest(str(entered).encode('utf-8'), str(_pw).encode('utf-8')):
                 _new = q.session_new()
                 st.session_state["tok"] = _new
                 st.query_params["s"] = _new
