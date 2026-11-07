@@ -1,0 +1,281 @@
+{
+  "id": "portland-vs-houston-mls",
+  "league": "United States Major League Soccer",
+  "home": "Portland Timbers",
+  "away": "Houston Dynamo",
+  "context": {
+    "type": "league",
+    "derby": false,
+    "high_volatility": false,
+    "high_scoring_league": false,
+    "cup_group_stage": false,
+    "knockout": false,
+    "desperation": null,
+    "late_goal_tendency": false,
+    "high_draw_league": false,
+    "continental_cup": false
+  },
+  "books": [
+    {
+      "name": "GK8",
+      "x12": {
+        "open": [
+          1.95,
+          4.05,
+          3.84
+        ],
+        "current": [
+          1.77,
+          4.32,
+          4.46
+        ]
+      },
+      "hdp": {
+        "open": {
+          "line": -0.5,
+          "home_water": 0.91,
+          "away_water": 1.01
+        },
+        "current": {
+          "line": -0.75,
+          "home_water": 0.96,
+          "away_water": 0.96
+        }
+      },
+      "ou": {
+        "open": {
+          "line": 3,
+          "over": 0.91,
+          "under": 1.01
+        },
+        "current": {
+          "line": 3,
+          "over": 1.04,
+          "under": 0.89
+        }
+      }
+    },
+    {
+      "name": "1XBET#1",
+      "x12": {
+        "open": [
+          2.0,
+          3.95,
+          3.75
+        ],
+        "current": [
+          1.78,
+          4.17,
+          4.56
+        ]
+      },
+      "hdp": {
+        "open": {
+          "line": -0.25,
+          "home_water": 0.77,
+          "away_water": 1.2
+        },
+        "current": {
+          "line": -1,
+          "home_water": 1.23,
+          "away_water": 0.75
+        }
+      },
+      "ou": {
+        "open": {
+          "line": 3.25,
+          "over": 1.12,
+          "under": 0.82
+        },
+        "current": {
+          "line": 3,
+          "over": 0.98,
+          "under": 0.94
+        }
+      }
+    },
+    {
+      "name": "1XBET#2",
+      "x12": {
+        "open": [
+          1.98,
+          3.91,
+          3.71
+        ],
+        "current": [
+          1.76,
+          4.12,
+          4.51
+        ]
+      },
+      "hdp": {
+        "open": {
+          "line": -0.25,
+          "home_water": 0.75,
+          "away_water": 1.18
+        },
+        "current": {
+          "line": -1,
+          "home_water": 1.13,
+          "away_water": 0.67
+        }
+      },
+      "ou": {
+        "open": {
+          "line": 3.25,
+          "over": 1.1,
+          "under": 0.8
+        },
+        "current": {
+          "line": 3,
+          "over": 0.92,
+          "under": 0.88
+        }
+      }
+    },
+    {
+      "name": "bet365",
+      "x12": {
+        "open": [
+          1.83,
+          3.8,
+          3.6
+        ],
+        "current": [
+          1.72,
+          4.2,
+          4.33
+        ]
+      },
+      "hdp": {
+        "open": {
+          "line": -0.5,
+          "home_water": 0.85,
+          "away_water": 0.95
+        },
+        "current": {
+          "line": -0.75,
+          "home_water": 0.9,
+          "away_water": 0.9
+        }
+      },
+      "ou": {
+        "open": {
+          "line": 3,
+          "over": 0.85,
+          "under": 0.95
+        },
+        "current": {
+          "line": 3,
+          "over": 0.97,
+          "under": 0.82
+        }
+      }
+    },
+    {
+      "name": "OLE777",
+      "x12": {
+        "open": [
+          1.95,
+          4.05,
+          3.84
+        ],
+        "current": [
+          1.77,
+          4.32,
+          4.46
+        ]
+      },
+      "hdp": {
+        "open": {
+          "line": -0.5,
+          "home_water": 0.91,
+          "away_water": 1.01
+        },
+        "current": {
+          "line": -0.75,
+          "home_water": 0.96,
+          "away_water": 0.96
+        }
+      },
+      "ou": {
+        "open": {
+          "line": 3,
+          "over": 0.91,
+          "under": 1.01
+        },
+        "current": {
+          "line": 3,
+          "over": 1.04,
+          "under": 0.89
+        }
+      }
+    }
+  ],
+  "form": {
+    "home": {
+      "seq": "DLDWW",
+      "gf": 9,
+      "ga": 9,
+      "games": 5,
+      "win_rate": 40
+    },
+    "away": {
+      "seq": "DDDDW",
+      "gf": 8,
+      "ga": 7,
+      "games": 5,
+      "win_rate": 20
+    }
+  },
+  "h2h": [
+    {
+      "home_team": "Houston Dynamo",
+      "away_team": "Portland Timbers",
+      "hg": 3,
+      "ag": 2,
+      "home_is_current_home": false
+    },
+    {
+      "home_team": "Houston Dynamo",
+      "away_team": "Portland Timbers",
+      "hg": 1,
+      "ag": 0,
+      "home_is_current_home": false
+    },
+    {
+      "home_team": "Portland Timbers",
+      "away_team": "Houston Dynamo",
+      "hg": 3,
+      "ag": 1,
+      "home_is_current_home": true
+    },
+    {
+      "home_team": "Portland Timbers",
+      "away_team": "Houston Dynamo",
+      "hg": 2,
+      "ag": 2,
+      "home_is_current_home": true
+    },
+    {
+      "home_team": "Houston Dynamo",
+      "away_team": "Portland Timbers",
+      "hg": 1,
+      "ag": 0,
+      "home_is_current_home": false
+    }
+  ],
+  "team_value": {
+    "home": 52,
+    "away": 34
+  },
+  "warnings": [
+    "ลำดับฟอร์ม Houston ในหัวภาพ (W D D D D) กลับด้านกับส่วน Form (D D D D W) ใช้ผลรวม 1 ชนะ 4 เสมอ ซึ่งตรงกันทั้งสองแบบ",
+    "H2H ในภาพมี 6 นัด ใช้เฉพาะ 5 นัดล่าสุดตามเกณฑ์"
+  ],
+  "rank": {
+    "home": 11,
+    "away": 5
+  },
+  "ah_left_team": "Portland Timbers"
+}
